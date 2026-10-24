@@ -1,5 +1,7 @@
 CS 210 Corner Grocer Project
 
+Project Reflection
+
 For my Corner Grocer project, I created a C++ program that reads grocery item
 data from a file and keeps track of how many times each item appears. The main 
 goal was to make it easier to look at the data and see which items were purchased
